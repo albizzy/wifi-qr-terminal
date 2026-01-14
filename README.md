@@ -5,10 +5,8 @@ A Python CLI tool that retrieves your currently connected (or stored) Wi-Fi SSID
 ## Installation
 
 ```bash
-pip install .
+pip install wifi-qr-terminal
 ```
-
-(Ideally, once published, `pip install wifi-qr-terminal`)
 
 ## Usage
 
